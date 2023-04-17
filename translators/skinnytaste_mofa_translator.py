@@ -14,7 +14,7 @@ def translate_dir(input_dir: str, output_dir: str):
         
         consolidated_file = join(output_dir, "all-entries.json")
         with open(consolidated_file, "w") as f:
-            json.dump(consolidated_translated_entries, f)
+            json.dump(consolidated_translated_entries, f, ensure_ascii=False)
 
 
 def translate(filename: str, input_dir: str, output_dir: str):
