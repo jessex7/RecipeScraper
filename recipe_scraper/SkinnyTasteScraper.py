@@ -45,6 +45,8 @@ class SkinnyTasteScraper(scrapy.Spider):
                 "unit":  item.css(".wprm-recipe-ingredient-unit::text").get(),
                 "notes": item.css(".wprm-recipe-ingredient-notes::text").get()
             }
+            if ingredient["ingred_name"] is None:
+                ingredient["ingred_name"] = item.css("a.wprm-recipe-ingredient-link::text").get()
             ingredients.append(ingredient)
         instructions_raw:list[scrapy.Selector] = response.css(".wprm-recipe-instruction")
         instructions: list[str] = []

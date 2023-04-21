@@ -1,0 +1,59 @@
+{
+    "original_url": "https://www.skinnytaste.com/air-fryer-chicken-tenders/",
+    "credit_to": "SkinnyTaste",
+    "author": "SkinnyTaste",
+    "name": "Air Fryer Chicken Tenders",
+    "prep_time": 5.0,
+    "cook_time": 30.0,
+    "ingredients": [
+        {
+            "ingred_name": " chicken tenders ",
+            "amount": "12",
+            "unit": null,
+            "notes": "(1 1/4 lbs)"
+        },
+        {
+            "ingred_name": "large eggs",
+            "amount": "2",
+            "unit": null,
+            "notes": "beaten"
+        },
+        {
+            "ingred_name": null,
+            "amount": "1",
+            "unit": "teaspoon",
+            "notes": null
+        },
+        {
+            "ingred_name": "black pepper",
+            "amount": null,
+            "unit": null,
+            "notes": "to taste"
+        },
+        {
+            "ingred_name": null,
+            "amount": "1/2",
+            "unit": "cup",
+            "notes": null
+        },
+        {
+            "ingred_name": null,
+            "amount": "1/2",
+            "unit": "cup",
+            "notes": null
+        },
+        {
+            "ingred_name": null,
+            "amount": null,
+            "unit": null,
+            "notes": null
+        },
+        {
+            "ingred_name": "lemon wedges",
+            "amount": null,
+            "unit": null,
+            "notes": "for serving"
+        }
+    ],
+    "instructions": "Season chicken with salt and pepper. Place egg in a shallow bowl. In a second shallow bowl, combine the bread crumbs and panko. Dip chicken in the egg, then into the breadcrumb mixture and shake off excess and place on a large dish or cutting board. Spray both sides of the chicken generously with oil. Preheat  In batches, cook the chicken 5 to 6 minutes on each side, until the chicken is cooked through and crispy and golden on the outside. Serve with lemon wedges."
+}
